@@ -52,7 +52,7 @@ This will compute:
 If you use this code, please cite:
 
 Céspedes Jiménez, A. J. (2025).
-*IC–IIa: Formal Consolidation of the Informational Dynamic Calculus in the Theory of Informational Emergence (TIE)*
+*IC-IIa: IC–IIa Reference Implementation*
 Zenodo. https://doi.org/10.5281/zenodo.17715459
 ---
 
